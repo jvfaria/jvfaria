@@ -13,7 +13,7 @@
 - 💀 The Skull is Running on port *** || Happy hacking
 
 
-<img width="auto" src="https://avatars1.githubusercontent.com/u/55673786?s=460&u=cd17038ac765c9c71c500c596ee6e56c552d6434&v=4">
+
 
 
 
