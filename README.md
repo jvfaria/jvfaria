@@ -10,6 +10,6 @@
 - 💀 The Skull is Running on port *** || Happy hacking
 
 
-
+![snake gif](https://github.com/jvfaria/jvfaria/blob/output/github-contribution-grid-snake.gif)
 
 
