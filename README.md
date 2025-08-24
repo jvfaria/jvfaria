@@ -1,10 +1,11 @@
 
 # João Vitor de Faria
-- 💻 Atuando como Desenvolvedor Web Fullstack
-- :notebook: Stacks: Java 8 + JSF | Spring + ReactJS 
-- 🌱 Cursando Ciências da Computação
+- 💻 Engenheiro de Software
+- :notebook: Java | Javascript/Typescript
+- 🌱 Ciências da Computação
 - 👯 Procuro gerar valor usando programação
-- :books: Estudando a stack Javascript (ReactJS, React Native e NodeJS) e Java (Java Core, Spring, JSF)
+- :books: Stack: Javascript (ReactJS, React Native e NodeJS) e Java (Java 17/21, Spring Boot)
+- :books: Cloud: AWS (SQS, SNS, EC2, Kubernets, Docker)
 <!-- - 📫 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JoãoVitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-faria-7604b617b/)](https://www.linkedin.com/in/jo%C3%A3o-vitor-faria-7604b617b/)
 | [![Gmail Badge](https://img.shields.io/badge/-jvfaria015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvfaria015@gmail.com)](mailto:jvfaria015@gmail.com) -->
 
@@ -31,8 +32,6 @@
 </div>
  
  ##
- 
-  #### 💀 The Skull is Running on port ****
  
 <br/>
   
